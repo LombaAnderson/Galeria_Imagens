@@ -35,7 +35,7 @@ Pré-requisitos: NodeJS/npm
 
 ```bash
 # clonar repositório
-git clone https://github.com/LombaAnderson/Certificados_Curso.git
+git clone https://github.com/LombaAnderson/Galeria_Imagens.git
 
 # Criação da pasta da API e arquivo api.js
 -rest-api
