@@ -1,5 +1,5 @@
 # Projeto Galeria_Imagens
-[![NPM](https://img.shields.io/npm/l/react)]https://github.com/LombaAnderson/Galeria_Imagens/blob/main/LICENSE
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Galeria_Imagens/blob/main/LICENSE
 
 # Sobre o projeto
 
