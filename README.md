@@ -38,8 +38,10 @@ Pré-requisitos: NodeJS/npm
 git clone https://github.com/LombaAnderson/Certificados_Curso.git
 
 # Criação da pasta da API e arquivo api.js
+-rest-api
+-api.js
 
-# Iniciando API rest dentro da pasta rest-api
+# Iniciando API Rest dentro da pasta rest-api
 -npm init
 
 # Instalação de algumas bibliotecas da API
@@ -48,7 +50,7 @@ git clone https://github.com/LombaAnderson/Certificados_Curso.git
 ```
 
 ## Front end web
-Pré-requisitos: Angular 
+Pré-requisitos: Angular, Bootstrap, Jquery
 
 ```bash
 # clonar repositório
