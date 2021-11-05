@@ -13,7 +13,7 @@ alternar as páginas com as informações dos certificados dos alunos.
 </div>
 
 ## Página dos certificados 
-![Projeto_Certificados_Curso2](https://user-images.githubusercontent.com/60937513/139591685-e3fa218e-f831-4de1-b90b-ab2b3dd303b2.png)
+![galeria1](https://user-images.githubusercontent.com/60937513/140497923-bd3be2d3-c805-4825-8b37-ece4bf089e57.png)
 
 
 # Tecnologias utilizadas
