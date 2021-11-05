@@ -9,11 +9,11 @@ alternar as páginas com as informações dos certificados dos alunos.
 ## Layout plataforma do curso
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/139591317-c05d7f19-7ffb-4da0-bc3d-bc19dd1d92b5.png" width="400px" />
+<![galeria1](https://user-images.githubusercontent.com/60937513/140497923-bd3be2d3-c805-4825-8b37-ece4bf089e57.png) width="400px" />
 </div>
 
 ## Página dos certificados 
-![galeria1](https://user-images.githubusercontent.com/60937513/140497923-bd3be2d3-c805-4825-8b37-ece4bf089e57.png)
+
 
 
 # Tecnologias utilizadas
