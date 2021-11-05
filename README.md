@@ -3,16 +3,16 @@
 
 # Sobre o projeto
 
-é um projeto Angular  web criado durante meu primeiro desafio no [Mundo Jix](https://www.mundojix.com/ "Site do Mundo Jix"). A aplicação consiste em três páginas de um site de consulta de certificados extracurriculares de um curso, onde os dados são consultados em uma plataforma, e depois é possível
-alternar as páginas com as informações dos certificados dos alunos.
+Esse é um projeto Angular feito juntamente com NodeJs de uma simples galeria de imagens onde se pode escolher imagens locais e cadastrá-las no site     
 
-## Layout plataforma do curso
+## Imagem da primeira página do Angular 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/140497923-bd3be2d3-c805-4825-8b37-ece4bf089e57.png" width="700px" />
 </div>
 
 ## Página do cadastro de imagens
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/140499353-d7cc2d70-e19c-47dc-9254-408a2c79a0e1.png" width="700px" />
 </div>
@@ -27,9 +27,6 @@ alternar as páginas com as informações dos certificados dos alunos.
 - Angular / HTML / CSS  
 - 
 
-## Implantação posterior
-- Aprimorar estrutura da plataforma ao colocar em servidor 
-
 # Como executar o projeto
 
 ## Back end
@@ -40,13 +37,11 @@ Pré-requisitos: NodeJS/npm
 git clone https://github.com/LombaAnderson/Certificados_Curso.git
 
 # Criar projeto no terminal do VS Code ou no de sua preferência
--npm install -g @vue/cli
+-npm install -g @angular/cli
 
-# Criar projeto VueJs pelo CLI(Command Line Interface)
-vue create certificados
+# 
 
-# Tipo de projeto Vuejs criado
-Default ([Vue 2] babel, eslint)
+# 
 
 # entrar na pasta do projeto back end
 cd certificados
