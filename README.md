@@ -11,10 +11,10 @@ Esse é um projeto Angular feito juntamente com NodeJs de uma simples galeria de
 <img src="https://user-images.githubusercontent.com/60937513/140497923-bd3be2d3-c805-4825-8b37-ece4bf089e57.png" width="700px" />
 </div>
 
-## Página do cadastro de imagens
+## Imagem cadastrada
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/140499353-d7cc2d70-e19c-47dc-9254-408a2c79a0e1.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/60937513/140500982-19dc3fd0-3ca1-4962-9e8b-670dd5e9e91d.png" width="600px" />
 </div>
 
 # Tecnologias utilizadas
