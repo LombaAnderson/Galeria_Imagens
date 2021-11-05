@@ -79,4 +79,4 @@ https://www.lombanderson.epizy.com
 
 Créditos
 
-Agradecimentos a Deus e a um amigo em especial que tem sido um grande amigo nas horas dificeis. 
+Agradecimentos a Deus e a um amigo em especial que tem sido meu ajudador nas horas dificeis. 
