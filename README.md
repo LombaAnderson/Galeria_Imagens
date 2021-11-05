@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este é um projeto Angular feito juntamente com NodeJs e também criado por uma API. No site do projeto foi feita uma galeria de fotos onde se pode escolher imagens locais e cadastrá-las.   
+Este é um projeto Angular feito juntamente com NodeJs e também criado por API Rest. No site do projeto foi feita uma galeria de fotos onde se pode escolher imagens locais e cadastrá-las.   
 
 ## Imagem da primeira página do Angular 
 
