@@ -19,13 +19,14 @@ Este é um projeto Angular feito juntamente com NodeJs e também criado por uma 
 
 # Tecnologias utilizadas
 ## Back end
-- NodeJS
-- Json Server
-- Router Link 
+- Servidor NodeJS
+- Express
+- Banco de dados Mysql
+- API Rest
+- PHP
 
 ## Front end
-- Angular / HTML / CSS  
-- 
+- Angular CLI / HTML / CSS  
 
 # Como executar o projeto
 
@@ -36,45 +37,32 @@ Pré-requisitos: NodeJS/npm
 # clonar repositório
 git clone https://github.com/LombaAnderson/Certificados_Curso.git
 
-# Criar projeto no terminal do VS Code ou no de sua preferência
--npm install -g @angular/cli
+# Criação da pasta da API e arquivo api.js
 
-# 
+# Iniciando API rest dentro da pasta rest-api
+-npm init
 
-# 
-
-# entrar na pasta do projeto back end
-cd certificados
-
-# executar o projeto no terminal dentro da pasta certificados
-npm run serve
-
-# criação do servidor falso Json Server 
-npm install -g json-server
-
-# criar dentro da pasta API com arquivo banco.js e executá-lo
-json-server --watch banco.json
-
-# criação do Router para alternar entre as páginas do curso 
-npm install vue-router
+# Instalação de algumas bibliotecas da API
+- npm install --save express body-parse cors
 
 ```
 
 ## Front end web
-Pré-requisitos: npm 
+Pré-requisitos: Angular 
 
 ```bash
 # clonar repositório
 git clone https://github.com/LombaAnderson/Certificados_Curso.git
 
-# entrar na pasta do projeto Certificados_Curso
-cd certificados
+# Criar projeto no terminal do VS Code ou no de sua preferência
+-npm install -g @angular/cli
 
-# instalar dependências
-npm install -g @vue/cli
+# Criação da pasta webapp(parte do front-end)
+ng new webapp
 
-# executar o projeto
-npm run serve
+# executar o projeto no terminal dentro da pasta webapp
+ng serve
+
 ```
 
 # Autor
