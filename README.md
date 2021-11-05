@@ -50,7 +50,7 @@ git clone https://github.com/LombaAnderson/Certificados_Curso.git
 ```
 
 ## Front end web
-Pré-requisitos: Angular, Bootstrap, Jquery
+Pré-requisitos: Angular, Bootstrap e Jquery
 
 ```bash
 # clonar repositório
@@ -60,10 +60,10 @@ git clone https://github.com/LombaAnderson/Certificados_Curso.git
 -npm install -g @angular/cli
 
 # Criação da pasta webapp(parte do front-end)
-ng new webapp
+-ng new webapp
 
 # executar o projeto no terminal dentro da pasta webapp
-ng serve
+-ng serve
 
 ```
 
