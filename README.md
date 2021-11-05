@@ -14,7 +14,7 @@ alternar as páginas com as informações dos certificados dos alunos.
 
 ## Página do cadastro de imagens
 <div align="center">
-img src="https://user-images.githubusercontent.com/60937513/140499353-d7cc2d70-e19c-47dc-9254-408a2c79a0e1.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/60937513/140499353-d7cc2d70-e19c-47dc-9254-408a2c79a0e1.png" width="700px" />
 </div>
 
 # Tecnologias utilizadas
