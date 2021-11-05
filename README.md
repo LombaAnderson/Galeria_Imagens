@@ -1,11 +1,9 @@
-# Galeria_Imagens
-
-# Projeto Certificados_Curso
-![GitHub](https://img.shields.io/github/license/https://github.com/LombaAnderson/Galeria_Imagens)
+# Projeto Galeria_Imagens
+[![NPM](https://img.shields.io/npm/l/react)]https://github.com/LombaAnderson/Galeria_Imagens/blob/main/LICENSE
 
 # Sobre o projeto
 
-Certificados_Curso é um projeto full stack web criado durante meu primeiro desafio no [Mundo Jix](https://www.mundojix.com/ "Site do Mundo Jix"). A aplicação consiste em três páginas de um site de consulta de certificados extracurriculares de um curso, onde os dados são consultados em uma plataforma, e depois é possível
+ é um projeto full stack web criado durante meu primeiro desafio no [Mundo Jix](https://www.mundojix.com/ "Site do Mundo Jix"). A aplicação consiste em três páginas de um site de consulta de certificados extracurriculares de um curso, onde os dados são consultados em uma plataforma, e depois é possível
 alternar as páginas com as informações dos certificados dos alunos.
 
 ## Layout plataforma do curso
