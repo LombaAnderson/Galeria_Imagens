@@ -3,17 +3,17 @@
 
 # Sobre o projeto
 
- é um projeto full stack web criado durante meu primeiro desafio no [Mundo Jix](https://www.mundojix.com/ "Site do Mundo Jix"). A aplicação consiste em três páginas de um site de consulta de certificados extracurriculares de um curso, onde os dados são consultados em uma plataforma, e depois é possível
+é um projeto Angular  web criado durante meu primeiro desafio no [Mundo Jix](https://www.mundojix.com/ "Site do Mundo Jix"). A aplicação consiste em três páginas de um site de consulta de certificados extracurriculares de um curso, onde os dados são consultados em uma plataforma, e depois é possível
 alternar as páginas com as informações dos certificados dos alunos.
 
 ## Layout plataforma do curso
 
 <div align="center">
-<![galeria1](https://user-images.githubusercontent.com/60937513/140497923-bd3be2d3-c805-4825-8b37-ece4bf089e57.png) width="400px" />
+<img src="https://user-images.githubusercontent.com/60937513/140497923-bd3be2d3-c805-4825-8b37-ece4bf089e57.png" width="400px" />
 </div>
 
 ## Página dos certificados 
-
+![Projeto_Certificados_Curso2](https://user-images.githubusercontent.com/60937513/139591685-e3fa218e-f831-4de1-b90b-ab2b3dd303b2.png)
 
 
 # Tecnologias utilizadas
@@ -23,8 +23,8 @@ alternar as páginas com as informações dos certificados dos alunos.
 - Router Link 
 
 ## Front end
-- HTML / CSS / JS  
-- VueJs
+- Angular / HTML / CSS  
+- 
 
 ## Implantação posterior
 - Aprimorar estrutura da plataforma ao colocar em servidor 
@@ -95,4 +95,4 @@ https://www.lombanderson.epizy.com
 
 Créditos
 
-Agradecimentos primeiramente a Deus, o professor dos professores, e ao professor Luciano e Vinicius por me ajudarem com seus conhecimentos. 
+Agradecimentos a Deus e a um amigo em especial que tem sido um grande amigo nas horas dificeis. 
